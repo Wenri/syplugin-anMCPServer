@@ -21,7 +21,7 @@
 
   * ~~Keyword search;~~ Temporarily removed, please provide feedback if needed
   * SQL search;
-  * Notebook index Q\&A (using RAG backend service, [feature in testing](./RAG_BETA.md));
+  * Notebook index Q\&A (using RAG backend service, [feature in testing](./RAG_BETA.md), see also [rag-server/](./rag-server/));
 
 * **\[Retrieve]**
 
